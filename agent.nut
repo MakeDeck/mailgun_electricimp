@@ -26,7 +26,7 @@ const API_KEY = "key-your_mailgun_api_key";
 const MAILGUN_URL = "api.mailgun.net/v2/";
 const MAILGUN_DOMAIN = "your_mailgun_domain_goes_here.mailgun.org";
 const FROM = "First Last <yourname@youremail.com>";
-const TO = "First Last <toemail@toemail.com>";
+const TO = "First Last <to_name@toemail.com>";
 const SUBJECT = "Testing Mailgun";
 const EMAIL_MESSAGE = "I am sending email through MailGun from an Electric Imp!";
 
